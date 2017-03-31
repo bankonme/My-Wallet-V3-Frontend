@@ -28,6 +28,7 @@ function currency ($q, MyBlockchainApi) {
     'EUR': 'Euro',
     'ISK': 'lcelandic Króna',
     'HKD': 'Hong Kong Dollar',
+    'INR': 'Indian Rupee',
     'TWD': 'New Taiwan Dollar',
     'CHF': 'Swiss Franc',
     'DKK': 'Danish Krone',
